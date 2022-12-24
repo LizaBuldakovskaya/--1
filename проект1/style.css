@@ -1,0 +1,21 @@
+body {
+    background-color: #dec1db;
+}
+
+.square {
+    position: absolute;
+    top: 0;
+    width: 600px;
+    height: 600px;
+    background: #947f92 ;
+    margin-left: 340px;
+    }
+img{
+    position: absolute;
+    top: 0;
+    margin-left: 365px;
+    width: 550px;
+    height: 500px;
+    down:10;
+    object-fit: cover;
+}
